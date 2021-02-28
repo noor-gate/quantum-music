@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -g -Werror -pedantic -lm
+CFLAGS = -Wall -g -Werror -pedantic
 
 wsrc = ./filereader.c\
        ./filewriter.c\
