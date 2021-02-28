@@ -1,4 +1,4 @@
-#include "./wfc/wfc.h"
+#include "../wfc/wfc.h"
 #include "filereader.h"
 #include "filewriter.h"
 
